@@ -1,5 +1,4 @@
-import hello1
-import hello2
+
 
 print("Running main function")
 hello1.say_hi()
